@@ -27,7 +27,7 @@
 ### Clone the Repository 📥
 
 ```sh
-git clone https://github.com/yourusername/snipertel.git
+git clone https://github.com/msimahov/SniperTel.git
 cd snipertel
 ```
 
