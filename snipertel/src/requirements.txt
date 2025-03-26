@@ -1,6 +1,0 @@
-requests
-dnspython
-shodan
-geocoder
-tabulate
-python-whois
